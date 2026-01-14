@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2380" height="1650" viewBox="0 0 2380 1650" version="1.1">
+  <rect x="40" y="40" width="740" height="190" fill="#7f7d79" />
+  <rect x="820" y="40" width="1130" height="190" fill="#7f7d79" />
+  <rect x="1990" y="40" width="350" height="1570" fill="#7f7d79" />
+  <rect x="40" y="270" width="350" height="650" fill="#7f7d79" />
+  <rect x="430" y="270" width="350" height="190" fill="#7f7d79" />
+  <rect x="820" y="270" width="740" height="190" fill="#7f7d79" />
+  <rect x="1600" y="270" width="350" height="190" fill="#7f7d79" />
+  <rect x="430" y="500" width="1130" height="880" fill="#7f7d79" />
+  <rect x="1600" y="500" width="350" height="190" fill="#7f7d79" />
+  <rect x="1600" y="730" width="350" height="650" fill="#7f7d79" />
+  <rect x="40" y="960" width="350" height="420" fill="#7f7d79" />
+  <rect x="40" y="1420" width="350" height="190" fill="#7f7d79" />
+  <rect x="430" y="1420" width="350" height="190" fill="#7f7d79" />
+  <rect x="820" y="1420" width="350" height="190" fill="#7f7d79" />
+  <rect x="1210" y="1420" width="350" height="190" fill="#7f7d79" />
+  <rect x="1600" y="1420" width="350" height="190" fill="#7f7d79" />
+</svg>
