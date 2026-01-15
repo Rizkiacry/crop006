@@ -50,6 +50,7 @@
         #scale(scale-factor * 100%, origin: top + left)[
           #block(width: src-w * 1pt, height: src-h * 1pt)[
             #include "../assets/top001_colors/overlay.typ"
+            #place(top + left, image("../assets/top001_linealpha.png", width: src-w * 1pt))
           ]
         ]
       ]
